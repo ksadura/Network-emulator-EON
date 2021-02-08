@@ -23,4 +23,4 @@ Application consists of:
 - [ ] Connection controller (CC)
 - [ ] API server
 
-*I was responsible for these two modules checked above*
+*I was responsible for these three modules checked above*
