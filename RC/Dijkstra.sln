@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dijkstra", "Dijkstra.csproj", "{F23C1B1E-CEA4-4A67-B7A4-B03ED0A8C85E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Commons", "..\Commons\Commons.csproj", "{DF298F4B-6F75-4FB2-819D-323AD583C831}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F23C1B1E-CEA4-4A67-B7A4-B03ED0A8C85E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F23C1B1E-CEA4-4A67-B7A4-B03ED0A8C85E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F23C1B1E-CEA4-4A67-B7A4-B03ED0A8C85E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F23C1B1E-CEA4-4A67-B7A4-B03ED0A8C85E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF298F4B-6F75-4FB2-819D-323AD583C831}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF298F4B-6F75-4FB2-819D-323AD583C831}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF298F4B-6F75-4FB2-819D-323AD583C831}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF298F4B-6F75-4FB2-819D-323AD583C831}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F264FE83-5671-441C-83E4-AC65BFDD3892}
+	EndGlobalSection
+EndGlobal

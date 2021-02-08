@@ -1,0 +1,15 @@
+﻿<core>
+  <port>448</port>
+  <address>127.0.0.1</address>
+  <name>LRM/Core</name>
+  <CC>CC</CC>
+  <RC>RC/C</RC>
+  <LRM>
+    <row10>CC_S1 R8</row10>
+    <row11>CC_S1 R7</row11>
+    <row12>R7 R8</row12>
+    <row13>R7 CC_S2</row13>
+    <row14>R8 CC_S2</row14>
+  </LRM>
+  <nodes>R7 R8 CC_S1 CC_S2</nodes>
+</core>

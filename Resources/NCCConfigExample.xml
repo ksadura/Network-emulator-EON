@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<NCC_Config>
+    <NCCIP>127.0.0.1</NCCIP>
+    <NCCPort>10258</NCCPort>
+    <CCIP>127.0.0.1</CCIP>
+    <CCPort>222</CCPort>
+    <Directory>
+        <HostCount>3</HostCount>>
+        <H1>10.1.1.5</H1>
+        <H2>10.1.1.9</H2>
+        <H3>10.1.1.7</H3>
+        </Directory>
+    </NCC_Config>

@@ -1,0 +1,26 @@
+﻿IPAddress: 127.0.0.1
+Port: 544
+Name: RC/C
+Node: H1
+Node: H2
+Node: H3
+Node: R7
+Node: R8
+Node: CC_S1
+Node: CC_S2
+Link: H1-CC_S1 10 24 20-1
+Link: CC_S1-R7 12 24 17-100
+Link: CC_S1-R8 28 24 18-101
+Link: R7-R8 12 24 103-102
+Link: R7-CC_S2 25 24 104-70
+Link: R8-CC_S2 11 24 105-90
+Link: CC_S2-H2 12 24 82-30
+Link: CC_S2-H3 9 24 85-40
+Convert: 10.1.1.5 H1
+Convert: 10.1.1.9 H2
+Convert: 10.1.1.7 H3
+Convert: 10.2.4.0 CC_S1
+Convert: 10.7.2.0 CC_S2
+Convert: 10.2.8.7 R7
+Convert: 10.2.8.8 R8
+PortLRM: 448

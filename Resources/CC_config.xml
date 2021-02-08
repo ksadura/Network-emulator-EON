@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CCConfig>
+  <subCC>false</subCC>
+  <RCAddress>127.0.0.1</RCAddress>
+  <RCPort>544</RCPort>
+  <LRMAddress>127.0.0.1</LRMAddress>
+  <LRMPort>448</LRMPort>
+  <IP>127.0.0.1</IP>
+  <Port>222</Port>
+  <Name>CC</Name>
+  <Modulations>
+    <Modulation>
+        <Name>16QAM</Name>
+        <HostFrom>10.1.1.5</HostFrom>
+        <HostTo>10.1.1.9</HostTo>
+    </Modulation>
+    <Modulation>
+        <Name>16QAM</Name>
+        <HostFrom>10.1.1.5</HostFrom>
+        <HostTo>10.1.1.7</HostTo>
+    </Modulation>
+    <Modulation>
+        <Name>64QAM</Name>
+        <HostFrom>10.1.1.9</HostFrom>
+        <HostTo>10.1.1.7</HostTo>
+    </Modulation>
+  </Modulations>
+</CCConfig>

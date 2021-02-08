@@ -1,0 +1,24 @@
+IPAddress: 127.0.0.1
+Port: 542
+Name: RC/S1
+Node: R1
+Node: R2
+Node: R3
+Node: R4
+Node: R5
+Node: R6
+Link: R1-R2 15 24 2-4
+Link: R1-R3 12 24 3-6
+Link: R2-R3 12 24 7-33
+Link: R2-R5 20 24 5-15
+Link: R3-R4 17 24 8-10
+Link: R4-R5 8 24 11-16
+Link: R3-R6 14 24 9-14
+Link: R4-R6 16 24 12-13
+Convert: 10.2.4.1 R1
+Convert: 10.2.4.2 R2
+Convert: 10.2.4.3 R3
+Convert: 10.2.4.4 R4
+Convert: 10.2.4.5 R5
+Convert: 10.2.4.6 R6
+PortLRM: 446

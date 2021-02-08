@@ -1,0 +1,71 @@
+[{
+    "selector": "node[classes = 'red']",
+    "style": {
+        "background-color": "red",
+        "shape": "rectangle",
+        "line-color": "red"
+        }
+    },
+    {
+    "selector": "node[classes = 'blue']",
+    "style": {
+        "background-color": "blue",
+        "shape": "rectangle"
+        }
+    },
+    {
+    "selector": "edge",
+    "style": {
+        "curve-style": "bezier",
+        "control-point-step-size": "5px"
+        }
+    },
+    {
+    "selector": "node[classes = 'green']",
+    "style": {
+        "background-color": "green",
+        "shape": "rectangle"
+        }
+    },
+    {
+    "selector": "edge[classes = 'red']",
+    "style": {
+        "line-color": "red"
+        }
+    },
+    {
+    "selector": "edge[classes = 'blue']",
+    "style": {
+        "line-color": "blue"
+        }
+    },
+    {
+    "selector": "edge[classes = 'green']",
+    "style": {
+        "line-color": "green"
+        }
+    },
+    {
+    "selector": "node",
+    "style": {
+        "label": "data(label)"
+        }
+    },
+    {
+    "selector": "node[network = 'S1']",
+    "style": {
+        "background-color": "cyan"
+        }
+    },
+    {
+    "selector": "node[network = 'C']",
+    "style": {
+        "background-color": "magenta"
+        }
+    },
+    {
+    "selector": "node[network = 'S2']",
+    "style": {
+        "background-color": "yellow"
+        }
+}]

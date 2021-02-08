@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Piter\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Piter\\.nuget\\packages"
+    ]
+  }
+}

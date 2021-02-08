@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CableCloud/1.0.0": {
+        "dependencies": {
+          "Commons": "1.0.0"
+        },
+        "runtime": {
+          "CableCloud.dll": {}
+        }
+      },
+      "Commons/1.0.0": {
+        "runtime": {
+          "Commons.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CableCloud/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Commons/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

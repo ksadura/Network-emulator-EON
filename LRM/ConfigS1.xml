@@ -1,0 +1,19 @@
+﻿<S1>
+  <port>446</port>
+  <address>127.0.0.1</address>
+  <name>LRM/S1</name>
+  <CC>CC_S1</CC>
+  <RC>RC/S1</RC>
+  <LRM>
+    <row1>H1 R1</row1>
+    <row2>R1 R2</row2>
+    <row3>R1 R3</row3>
+    <row4>R2 R3</row4>
+    <row5>R2 R5</row5>
+    <row6>R3 R4</row6>
+    <row7>R3 R6</row7>
+    <row8>R4 R5</row8>
+    <row9>R4 R6</row9>
+  </LRM>
+  <nodes>R1 R2 R3 R4 R5 R6</nodes>
+</S1>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<HostandCPCC_Config>
+    <HostConfig>
+        <HostName>H3</HostName>
+        <OutputPort>40</OutputPort>
+        <IP>10.1.1.7</IP>
+        <CloudIP>127.0.0.1</CloudIP>
+        <CloudPort>444</CloudPort>
+	<PowerLevel>3,3</PowerLevel>
+        </HostConfig>
+    <CPCCConfig>
+        <NCCIP>127.0.0.1</NCCIP>
+        <NCCPort>10258</NCCPort>
+        </CPCCConfig>
+    </HostandCPCC_Config>

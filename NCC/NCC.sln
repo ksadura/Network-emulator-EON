@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NCC", "NCC\NCC.csproj", "{30B8E73C-3195-4962-B628-A1791D214BE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Commons", "..\Commons\Commons.csproj", "{EB851B95-111C-409E-880A-26680CF49EB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30B8E73C-3195-4962-B628-A1791D214BE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30B8E73C-3195-4962-B628-A1791D214BE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30B8E73C-3195-4962-B628-A1791D214BE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30B8E73C-3195-4962-B628-A1791D214BE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB851B95-111C-409E-880A-26680CF49EB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB851B95-111C-409E-880A-26680CF49EB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB851B95-111C-409E-880A-26680CF49EB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB851B95-111C-409E-880A-26680CF49EB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AB9E23F-4C3E-4FEC-B7FC-435A74DAB683}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+		$0.TextStylePolicy = $2
+		$2.inheritsSet = null
+		$2.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $3
+		$3.scope = text/x-csharp
+		$0.TextStylePolicy = $4
+		$4.FileWidth = 80
+		$4.TabsToSpaces = True
+		$4.scope = text/plain
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<NodeConfig>
+  <CCAddress>127.0.0.1</CCAddress>
+  <CCPort>223</CCPort>
+  <NodeName>R4</NodeName>
+  <NodeAddress>10.2.4.4</NodeAddress>
+  <CloudAddress>127.0.0.1</CloudAddress>
+  <CloudPort>444</CloudPort>
+</NodeConfig>
