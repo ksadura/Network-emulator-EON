@@ -10,6 +10,7 @@ has been added which starts the API server for visualization of established path
 |*Network topology*|
 
 **1. To run API server use ```run_api.bat```**
+
 **2. To run application use ```run.bat```**  
 
 Application consists of:
