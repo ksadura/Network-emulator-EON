@@ -24,3 +24,7 @@ Application consists of:
 - [ ] API server
 
 *I was responsible for these three modules checked above*
+
+**Authors:**
+
+* Piotr Chojnowski, Kamil Dębek, Krzysztof Sadura (me)
