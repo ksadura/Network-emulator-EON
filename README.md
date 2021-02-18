@@ -27,4 +27,4 @@ Application consists of:
 
 **Authors:**
 
-* Piotr Chojnowski, Kamil Dębek, Krzysztof Sadura (me)
+* Piotr Chojnowski, Kamil Dębek, Krzysztof Sadura
